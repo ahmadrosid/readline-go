@@ -4,6 +4,7 @@ go 1.17
 
 require (
 	github.com/google/pprof v0.0.0-20220829040838-70bd9ae97f40
+	golang.org/x/crypto v0.0.0-20220829220503-c86fa9a7ed90
 	golang.org/x/term v0.0.0-20220722155259-a9ba230a4035
 )
 
