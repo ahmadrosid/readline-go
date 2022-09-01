@@ -1,4 +1,4 @@
-module readline
+module github.com/ahmadrosid/readline-go
 
 go 1.17
 
